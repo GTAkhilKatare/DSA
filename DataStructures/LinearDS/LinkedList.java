@@ -14,6 +14,11 @@ Head -----> | Data | Next node | ---> | Data | Next node | ---> | Data | Next no
 
 In the linked list, the first node is known as head and the last node is known as tail.
 We can also, modify the structure of the node by making it able to store multiple data, but the general way is this to represent it.
+
+There are three types of linked list.
+1. Singly linked lists
+2. Doubly linked lists
+3. Circular linked lists
 */
 
 package DataStructures.LinearDS;
