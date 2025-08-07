@@ -1,0 +1,24 @@
+The Tree data structure is similar to Linked Lists in that each node contains data and can be linked to other nodes.
+
+But the linked list is a linear data structure which can have only one next node address.
+The tree can have multiple next node address, which make them different.
+
+The tree is a hirerarchecial data structure and is similar to the real-life tree just kept upside down.
+We can imagine tree like this:
+                            --------
+                            | Data |
+                            --------
+                                |
+                            -------------
+                            |           |
+                        --------    --------    
+                        | Data |    | Data |
+                        --------    --------
+
+There are many types of trees, but some of them are given below which we will see here:
+1. Binary Tree
+2. Binary Search Tree
+3. Adelson-Velsky and Landis Tree
+4. Red Black Tree
+5. Segement Tree
+
